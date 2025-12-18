@@ -30,3 +30,8 @@ https://chatgpt.com/share/6911969a-33fc-800b-a126-37df231a71c0
 
 6. 머신러닝 관련해서 라그랑지안 승수에 관련된 것은 고전역학에서 그 기초를 찾을 수 있따 
 https://www.scribd.com/document/824828251/%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B4-%E1%84%92%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2
+
+
+머신러닝은 아니지만 
+-. 물리학과를 위한 위상수학 교재 추천! 
+https://www.reddit.com/r/math/comments/btm89e/topology_textbook_recommendation_for_a_physics/?tl=ko
