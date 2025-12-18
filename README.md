@@ -35,3 +35,6 @@ https://www.scribd.com/document/824828251/%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E
 머신러닝은 아니지만 
 -. 물리학과를 위한 위상수학 교재 추천! 
 https://www.reddit.com/r/math/comments/btm89e/topology_textbook_recommendation_for_a_physics/?tl=ko
+
+-. 머신러닝과 정보이론: 작동 원리의 이해 
+https://horizon.kias.re.kr/18474/
